@@ -1,0 +1,5 @@
+data/org.gnome.Calculator.desktop.in
+data/org.gnome.Calculator.appdata.xml.in
+data/org.gnome.Calculator.gschema.xml
+src/window.uisrc/main.vala
+src/window.vala
